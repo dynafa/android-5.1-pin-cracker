@@ -12,3 +12,4 @@ Basic steps:
 2. Set up the screen lock with a pin to a reasonable length which won't take thousands of years to crack. https://www.mymathtables.com/numbers/100-factorial-tables-chart.html
 3. Use get-files.ps1 to use adb to pull the files required to attempt the brute-force attack
 4. Run cracking-script.py to find the pin.
+![Screenshot](screenshot.jpg)
